@@ -1,4 +1,4 @@
-# Prediction of the mortality rate for residents of the United States who suffer from cancer within use of the Linear Regression model.
+# Prediction of the mortality rate for residents of the United States who suffer from cancer with the use of the Linear Regression model. Machine Learning.
 
 
 The main objective of the project is prediction of the mortality rate for people suffering from cancer in the United States, in each State separately. The analysis aim into discovering the correlation between the cancer cases and mortality across 10 years.
